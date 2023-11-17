@@ -20,5 +20,6 @@ Qui di seguito, puoi visualizzare uno screenshot della presentazione su Power BI
 
 
 
+
 Presentazione su Power BI: [link presentazione su PowerBI](https://app.powerbi.com/view?r=eyJrIjoiNmZmMjBkY2QtODFhZi00OTI1LTk3NTAtNWI4OWM1Y2M4NTM4IiwidCI6ImZmYjRkZjY4LWY0NjQtNDU4Yy1hNTQ2LTAwZmIzYWY2NmY2YSIsImMiOjh9).
 
