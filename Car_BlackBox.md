@@ -18,8 +18,9 @@ In particolare, è possibile esaminare l'andamento dettagliato della velocità e
 
 Qui di seguito, puoi visualizzare uno screenshot della presentazione su Power BI, dove è possibile scegliere il tipo di targa e analizzare informazioni dettagliate sul comportamento dei guidatori. 
 
+![Screenshot 2023-11-17 094735](https://github.com/MonaJB/F2Informatica/assets/135997888/6fdc3a55-1cb6-4f90-8641-079df25be7e8)
 
-
+![Screenshot 2023-11-17 094817](https://github.com/MonaJB/F2Informatica/assets/135997888/aef802c0-a775-448a-8207-c02d1faa30bc)
 
 Presentazione su Power BI: [link presentazione su PowerBI](https://app.powerbi.com/view?r=eyJrIjoiNmZmMjBkY2QtODFhZi00OTI1LTk3NTAtNWI4OWM1Y2M4NTM4IiwidCI6ImZmYjRkZjY4LWY0NjQtNDU4Yy1hNTQ2LTAwZmIzYWY2NmY2YSIsImMiOjh9).
 
