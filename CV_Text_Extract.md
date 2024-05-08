@@ -8,11 +8,11 @@ Per avviare questo progetto, è necessario avere conoscenze di programmazione Py
 
 Le seguenti librerie Python devono essere installate per far funzionare il codice:
 
-bash
+'''
 !pip install fitz
 !pip install PyMuPDF
 !pip install Unidecode
-
+'''
 
 ## Acquisizione dei dati
 
