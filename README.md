@@ -2,7 +2,7 @@
 
 # Progetti del mio Percorso
 
-Benvenuto nella cartella dei miei progetti! Questa cartella contiene una raccolta di progetti che ho sviluppato nel corso del mio percorso professionale. Ogni progetto qui presenta una breve descrizione e fornisce un'opportunità per esplorare il mio lavoro.
+Questa cartella contiene i progetti che ho sviluppato nel corso del mio percorso professionale. Ogni progetto qui presenta una breve descrizione e fornisce un'opportunità per esplorare il mio lavoro.
 
 ## Progetti Disponibili
 
