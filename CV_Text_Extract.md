@@ -7,12 +7,11 @@ Nel competitivo mercato del lavoro, i recruiter spesso devono gestire un elevato
 Per avviare questo progetto, è necessario avere conoscenze di programmazione Python e familiarità con librerie come PyMuPDF.
 
 Le seguenti librerie Python devono essere installate per far funzionare il codice:
-
-'''
+```
 !pip install fitz
 !pip install PyMuPDF
 !pip install Unidecode
-'''
+```
 
 ## Acquisizione dei dati
 
