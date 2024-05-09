@@ -27,3 +27,5 @@ This document outlines a Product Issues Dashboard for visualizing and analyzing 
 
 The Product Issues Dashboard empowers store owners and managers with actionable insights to address customer grievances effectively, improve product quality, and foster long-term customer loyalty. By leveraging real-time data and intuitive visualizations, businesses can proactively mitigate issues and deliver exceptional customer experiences.
 
+[Screenshot 2024-05-08 172541.png][]
+
