@@ -2,7 +2,7 @@
 
 ## Introduzione
 
-Finalizzati al controllo della redditività aziendale, per migliorare le strategie aziendali e prendere decisioni informate, sono stati analizzati i dati del fatturato: i costi e i margini per anno, mese, commessa, cliente e risorsa. Questo progetto mira a fornire una visione chiara e dettagliata delle performance finanziarie dell'azienda utilizzando una dashboard interattiva in Power BI.
+Finalizzati al controllo della redditività aziendale, per migliorare le strategie aziendali e prendere decisioni informate, sono stati analizzati i dati del fatturato: i costi e i margini per anno, mese, commessa, cliente e risorsa. Questo progetto fornisce una visione chiara e dettagliata delle performance finanziarie dell'azienda utilizzando una dashboard interattiva in Power BI.
 
 ## Struttura della Dashboard
 
