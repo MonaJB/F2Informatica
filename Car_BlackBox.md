@@ -24,6 +24,6 @@ Qui di seguito, puoi visualizzare uno screenshot della presentazione su Power BI
 
 ## I misuri Usati:
 drivere Data riguarda al TimeStamp:
-'''
+
 Data = FORMAT(DATE(1970, 1, 1) + [timestamp]/86400, "yyyy-MM-dd HH:mm")
-'''
+
