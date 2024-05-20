@@ -6,11 +6,11 @@ Questa cartella contiene i progetti che ho sviluppato nel corso del mio percorso
 
 ## Progetti Disponibili
 
-### [Progetto CV Extraction](CV_Tect_Extract/)
+### [CV Estrazione](CV_Text_Extract/)
 
 Questo progetto contiene il codice per l'estrazione delle informazioni dai CV e la generazione di una tabella organizzata. Il codice è stato progettato per analizzare varie sezioni dei CV e compilare i dati in un formato strutturato, facilitando l'accesso e l'analisi.
 
-### [Progetto Analisi Incidenti Stradali In Italia](Analisi_Incidenti_Stradali__2021/)
+### [Analisi Incidenti Stradali In Italia](Analisi_Incidenti_Stradali__2021/)
 
 ho condotto un'analisi sugli incidenti stradali in Italia utilizzando dati ISTAT. Utilizzando Tableau, ho creato un dashboard interattivo che fornisce una panoramica dettagliata delle dinamiche degli incidenti in Italia. Attraverso mappe interattive e grafici informativi, l'analisi si concentra su condizioni meteorologiche, tipi di strada, natura degli incidenti, e distribuzione temporale. Questi insights puntano a informare strategie di prevenzione e intervento, contribuendo a migliorare la sicurezza stradale complessiva..
 
