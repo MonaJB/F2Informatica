@@ -20,4 +20,4 @@ Qui di seguito, puoi visualizzare uno screenshot della presentazione su Power BI
 
 ![Screenshot 2023-11-17 094735](https://github.com/MonaJB/F2Informatica/assets/Screenshot%2024-05-08%165743.png)
 
-![Screenshot 2023-11-17 094817](https://github.com/MonaJB/F2Informatica/assets/Screenshot 2024-05-08 165850.png)
+![Screenshot 2023-11-17 094817](https://github.com/MonaJB/F2Informatica/assets/Screenshot%2024-05-08%165850.png)
