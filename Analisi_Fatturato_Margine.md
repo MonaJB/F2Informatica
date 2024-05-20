@@ -27,9 +27,20 @@ Il secondo foglio, chiamato **"Margine"**, offre un'analisi simile a quella del 
 Il terzo foglio della dashboard, intitolato **"Risorsa"**, fornisce un’analisi dettagliata del costo totale per risorsa. Utilizzando grafici a colonna, questo foglio mostra i costi mensili per risorsa, permettendo di monitorare e gestire efficacemente i costi associati a ciascuna risorsa. Questa visualizzazione è cruciale per la gestione ottimale delle risorse aziendali e per garantire un utilizzo efficiente delle stesse.
 
 
+TotFattAnnual = CALCULATE (
+    SUM ( 'Dati2'[tot fatt gglav] ),
+    FILTER (
+        'Dati2',
+
+        'Dati2'[Cliente] IN VALUES ( 'Dati2'[cliente] ) &&
+        'Dati2'[titolare commessa] IN VALUES('Dati2'[titolare commessa])
+    )
+)
 
 *Nella foto sopra, possiamo vedere la scheda "Risorsa" con l’analisi dettagliata del costo totale per risorsa e i grafici a colonna che mostrano i costi mensili.*
 
 ## Conclusione
 
 L'utilizzo di Power BI per creare questa dashboard interattiva ha permesso di ottenere una visione completa e dettagliata delle performance finanziarie dell'azienda. Analizzando il fatturato, i margini e i costi per cliente e risorsa, è possibile prendere decisioni informate e migliorare le strategie aziendali. Questa dashboard rappresenta uno strumento fondamentale per il controllo della redditività e l'ottimizzazione delle risorse aziendali.
+
+
