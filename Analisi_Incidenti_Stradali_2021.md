@@ -22,6 +22,7 @@ La particolarità di questo grafico risiede nella differenziazione tra i generi,
 
 ## Dashboard 2: "Analisi Temporale e Distribuzione"
 
+![Screenshot 202023-11-30 20154046.png](https://github.com/MonaJB/F2Informatica/blob/08ce90e76100867745e3ffdf7658999be367117f/Screenshot%202023-11-30%20154046.png)
 
  ## 1.	Grafico a Linea delle Ore del Giorno: 
  Questo grafico offre una rappresentazione temporale dettagliata delle fluttuazioni degli incidenti stradali nel corso delle 24 ore, nel contesto dell'anno 2021. Le linee dedicate a feriti, morti entro 24 ore e al conteggio complessivo forniscono un'analisi approfondita delle dinamiche temporali.
