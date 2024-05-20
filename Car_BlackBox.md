@@ -21,3 +21,9 @@ Qui di seguito, puoi visualizzare uno screenshot della presentazione su Power BI
 ![Screenshot 2023-11-17 094735](https://github.com/MonaJB/F2Informatica/blob/fbdcaa772a079478f5fc7b1b7edad765076adca5/Screenshot%202024-05-08%20165743.png)
 ## Il foglio di Andamento di Velocità e Accelerazione 
 ![Screenshot 2023-11-17 094817](https://github.com/MonaJB/F2Informatica/blob/fbdcaa772a079478f5fc7b1b7edad765076adca5/Screenshot%202024-05-08%20165850.png)
+
+## I misuri Usati:
+drivere Data riguarda al TimeStamp:
+'''
+Data = FORMAT(DATE(1970, 1, 1) + [timestamp]/86400, "yyyy-MM-dd HH:mm")
+'''
