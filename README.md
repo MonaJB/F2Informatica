@@ -10,14 +10,17 @@ Questa cartella contiene i progetti che ho sviluppato nel corso del mio percorso
 
 Questo progetto contiene il codice per l'estrazione delle informazioni dai CV e la generazione di una tabella organizzata. Il codice è stato progettato per analizzare varie sezioni dei CV e compilare i dati in un formato strutturato, facilitando l'accesso e l'analisi.
 
-### [Nome del Progetto 2](Car_BlackBox/)
+### [Progetto Analisi Incidenti Stradali In Italia](Analisi_Incidenti_Stradali__2021/)
 
-Descrizione breve del Progetto 2.
+ho condotto un'analisi sugli incidenti stradali in Italia utilizzando dati ISTAT. Utilizzando Tableau, ho creato un dashboard interattivo che fornisce una panoramica dettagliata delle dinamiche degli incidenti in Italia. Attraverso mappe interattive e grafici informativi, l'analisi si concentra su condizioni meteorologiche, tipi di strada, natura degli incidenti, e distribuzione temporale. Questi insights puntano a informare strategie di prevenzione e intervento, contribuendo a migliorare la sicurezza stradale complessiva..
 
-### [Nome del Progetto 3](progetto3/)
+### [Analisi Fatturato, Margine e Costi per Cliente e Risorse](Analisi Fatturato, Margine e Costi per Cliente e Risorse/)
 
-Descrizione breve del Progetto 3.
+Finalizzati al controllo della redditività aziendale, per migliorare le strategie aziendali e prendere decisioni informate, sono stati analizzati i dati del fatturato: i costi e i margini per anno, mese, commessa, cliente e risorsa.
 
+### [Il comportamento di Guidatri](Car_BlachBox/)
+
+Un progetto finalizzato a valutare il comportamento di guida attraverso l’uso di dati raccolti da una Black Box, installata sull’auto, al fine di ottenere informazioni relative alla velocità, accelerazione, tempo di percorrenza, etc.etc. fornendo alla compagnia assicurativa il profilo di rischio di ciascun assicurato.
 ...
 
 ## Come Utilizzare i Progetti
