@@ -21,7 +21,10 @@ Finalizzati al controllo della redditività aziendale, per migliorare le strateg
 ### [Il comportamento di Guidatri](Car_BlachBox/)
 
 Un progetto finalizzato a valutare il comportamento di guida attraverso l’uso di dati raccolti da una Black Box, installata sull’auto, al fine di ottenere informazioni relative alla velocità, accelerazione, tempo di percorrenza, etc.etc. fornendo alla compagnia assicurativa il profilo di rischio di ciascun assicurato.
-...
+
+### [Product Issues](Product_Issues_Dashboard/)
+
+creando Product Issues Dashboard in che prevedeva delle problematiche segnalate dai clienti riguardanti i prodotti acquistati, consentendo agli amministratori di visualizzare e analizzare i diversi problemi, come richieste di rimborso, domande sui prodotti e problemi tecnici. Attraverso grafici interattivi e metriche chiave, supporta decisioni informate per migliorare la soddisfazione del cliente e la qualità del prodotto.
 
 ## Come Utilizzare i Progetti
 
