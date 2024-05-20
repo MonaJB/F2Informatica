@@ -14,7 +14,7 @@ Questo progetto contiene il codice per l'estrazione delle informazioni dai CV e 
 
 ho condotto un'analisi sugli incidenti stradali in Italia utilizzando dati ISTAT. Utilizzando Tableau, ho creato un dashboard interattivo che fornisce una panoramica dettagliata delle dinamiche degli incidenti in Italia. Attraverso mappe interattive e grafici informativi, l'analisi si concentra su condizioni meteorologiche, tipi di strada, natura degli incidenti, e distribuzione temporale. Questi insights puntano a informare strategie di prevenzione e intervento, contribuendo a migliorare la sicurezza stradale complessiva..
 
-### [Analisi Fatturato, Margine e Costi per Cliente e Risorse](Analisi Fatturato, Margine e Costi per Cliente e Risorse/)
+### [Analisi Fatturato, Margine e Costi per Cliente e Risorse](Analisi_Incidenti_Stradali_2021/)
 
 Finalizzati al controllo della redditività aziendale, per migliorare le strategie aziendali e prendere decisioni informate, sono stati analizzati i dati del fatturato: i costi e i margini per anno, mese, commessa, cliente e risorsa.
 
