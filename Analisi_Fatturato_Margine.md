@@ -26,7 +26,9 @@ Il secondo foglio, chiamato **"Margine"**, offre un'analisi simile a quella del 
 
 Il terzo foglio della dashboard, intitolato **"Risorsa"**, fornisce un’analisi dettagliata del costo totale per risorsa. Utilizzando grafici a colonna, questo foglio mostra i costi mensili per risorsa, permettendo di monitorare e gestire efficacemente i costi associati a ciascuna risorsa. Questa visualizzazione è cruciale per la gestione ottimale delle risorse aziendali e per garantire un utilizzo efficiente delle stesse.
 
+### 4. Dax e i Misuri
 
+```
 TotFattAnnual = CALCULATE (
     SUM ( 'Dati2'[tot fatt gglav] ),
     FILTER (
@@ -36,6 +38,36 @@ TotFattAnnual = CALCULATE (
         'Dati2'[titolare commessa] IN VALUES('Dati2'[titolare commessa])
     )
 )
+```
+
+```
+TotFattMensil = CALCULATE (
+    SUM ( 'Dati2'[tot fatt gglav] ),
+    FILTER (
+        'Dati2',
+        'Dati2'[Mese] = SELECTEDVALUE('Dati2'[Mese]) &&
+        'Dati2'[Cliente] IN VALUES ( 'Dati2'[cliente] ) &&
+        'Dati2'[titolare commessa] IN VALUES('Dati2'[titolare commessa])
+    )
+)
+```
+
+```
+Month Name = 
+SWITCH(Dati2[Mese],
+1, "1 January",
+2, "2 Febbruary",
+3, "3 March",
+4, "4 April",
+5, "5 May",
+6, "6 June",
+7, "7 July",
+8, "8 August",
+9, "9 Settember",
+10, "10 October",
+11, "11 November",
+12, "12 December")
+```
 
 *Nella foto sopra, possiamo vedere la scheda "Risorsa" con l’analisi dettagliata del costo totale per risorsa e i grafici a colonna che mostrano i costi mensili.*
 
