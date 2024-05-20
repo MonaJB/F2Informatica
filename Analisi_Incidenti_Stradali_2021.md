@@ -1,7 +1,7 @@
 # Analisi Incidenti Stradali in Italia 2021: 
 Una Visione Dettagliata attraverso i Grafici su Tableau 📊
 
-Nel corso dell'anno 2021, ho condotto un'analisi approfondita sugli incidenti stradali in Italia, utilizzando dati preziosi reperiti dall'Istituto Nazionale di Statistica (ISTAT). Attraverso il potente strumento di visualizzazione dei dati, Tableau, ho creato un dashboard informativo che fornisce una panoramica dettagliata e interattiva delle dinamiche legate agli incidenti stradali nel nostro paese con una particolare attenzione alle singole città, evidenziate su una mappa interattiva.
+Nel corso dell'anno 2021, ho condotto un'analisi sugli incidenti stradali in Italia, utilizzando dati preziosi reperiti dall'Istituto Nazionale di Statistica (ISTAT). Attraverso il Tableau, ho creato un dashboard che fornisce una panoramica delle dinamiche legate agli incidenti stradali nel nostro paese con una particolare attenzione alle singole città, evidenziate su una mappa.
 Ogni dashboard è interattiva e offre la possibilità di filtrare i dati per città specifiche o visualizzare il panorama nazionale. Questa analisi mira non solo a comprendere le tendenze degli incidenti stradali, ma anche a fornire insights utili per informare strategie di prevenzione e intervento.
 ## Dashboard 1: “Geografica e Demografica degli incidenti”
  ![Screenshot 202023-11-30 20095700.png](https://github.com/MonaJB/F2Informatica/blob/08ce90e76100867745e3ffdf7658999be367117f/Screenshot%202023-11-30%20095700.png)
@@ -13,7 +13,7 @@ La mappa offre una panoramica chiara delle regioni con il più alto tasso di inc
 ## 2. Conteggio Incidenti per Condizioni Meteo e Tipo di Strada: 
 Questo grafico offre un'analisi approfondita delle dinamiche degli incidenti stradali in relazione alle condizioni meteorologiche e al tipo di strada. Le barre colorate rappresentano la percentuale di incidenti per ciascuna condizione meteorologica (Sereno, Nebbia, Grandine, Pioggia, Neve, Vento forte e altro) su diverse tipologie di strade (Una carreggiata a senso unico, Una carreggiata a doppio senso, Due carreggiate e Più di due carreggiate).
 
-Ogni barra riflette proporzionalmente la frequenza degli incidenti in base alla specifica combinazione di condizioni meteorologiche e tipo di strada. La chiarezza dei colori facilita la comprensione istantanea delle variazioni significative. I filtri interattivi consentono di concentrarsi su condizioni meteorologiche o tipologie di strade specifiche, consentendo un'analisi mirata e personalizzata.
+Ogni barra riflette la frequenza degli incidenti in base alla specifica combinazione di condizioni meteorologiche e tipo di strada. La chiarezza dei colori facilita la comprensione istantanea delle variazioni significative. I filtri interattivi consentono di concentrarsi su condizioni meteorologiche o tipologie di strade specifiche, consentendo un'analisi mirata e personalizzata.
 
 ## 3.	Conteggio Incidenti per Natura dell'Incidente e Sesso: 
 Questo grafico offre un'approfondita esplorazione delle dinamiche degli incidenti stradali, suddividendo la distribuzione degli incidenti in base alla loro natura. Le categorie includono Scontro frontale, Scontro frontale-laterale, Scontro laterale, Tamponamento, Investimento di pedoni, Urto con veicolo in fermata o in arresto, Urto con veicolo in sosta, Urto con ostacolo, Urto con treno, Fuoriuscita, Sbandamento, Infortunio per frenata improvvisa e Infortunio per caduta da veicolo.
