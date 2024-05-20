@@ -27,8 +27,3 @@ Un progetto finalizzato a valutare il comportamento di guida attraverso l’uso 
 
 Ogni cartella di progetto contiene istruzioni dettagliate su come utilizzare e/o eseguire il codice. Si prega di fare riferimento alla documentazione all'interno di ciascuna cartella per ulteriori informazioni.
 
-## Contatti
-
-Per eventuali domande o feedback sui progetti, non esitare a contattarmi all'indirizzo email [tuo@email.com](mailto:tuo@email.com).
-
-Grazie per l'interesse nei miei progetti!
