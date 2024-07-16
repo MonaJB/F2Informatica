@@ -71,6 +71,17 @@ SWITCH(Dati2[Mese],
 
 *Nella foto sopra, possiamo vedere la scheda "Risorsa" con l’analisi dettagliata del costo totale per risorsa e i grafici a colonna che mostrano i costi mensili.*
 
+## Dashboard 2:
+
+![Fatturato.png](https://github.com/MonaJB/F2Informatica/blob/Assets/Fatturato.png)
+
+
+## Dashboard 2:
+
+![Risorsa.png](https://github.com/MonaJB/F2Informatica/blob/Assets/Risorsa.png)
+
+
+
 ## Conclusione
 
 L'utilizzo di Power BI per creare questa dashboard interattiva ha permesso di ottenere una visione completa e dettagliata delle performance finanziarie dell'azienda. Analizzando il fatturato, i margini e i costi per cliente e risorsa, è possibile prendere decisioni informate e migliorare le strategie aziendali. Questa dashboard rappresenta uno strumento fondamentale per il controllo della redditività e l'ottimizzazione delle risorse aziendali.
