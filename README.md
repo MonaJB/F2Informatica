@@ -6,7 +6,7 @@ Questa cartella contiene i progetti che ho sviluppato nel corso del mio percorso
 
 ## Progetti Disponibili
 
-### [CV Estrazione](CV_Text_Extract/)
+### [CV Estrazione](https://github.com/MonaJB/F2Informatica/blob/main/CV_Text_Extract.md)
 
 Questo progetto contiene il codice per l'estrazione delle informazioni dai CV e la generazione di una tabella organizzata. Il codice è stato progettato per analizzare varie sezioni dei CV e compilare i dati in un formato strutturato, facilitando l'accesso e l'analisi.
 
